@@ -62,3 +62,17 @@
 .evidenziato{
     background-color: yellow;
 }
+
+/*lista non numerata nell'articolo*/
+.lista-articolo{
+    padding-left: 10px;
+}
+
+/*tabella*/
+
+
+/*articoli correlati*/
+.titolo-footer{
+    font-size: 15px;
+    color: rgb(163, 163, 163);
+}
