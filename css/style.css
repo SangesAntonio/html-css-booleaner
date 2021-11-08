@@ -46,3 +46,19 @@
     font-size: 12;
     margin-top: 0%;
 }
+
+/*info immagini*/
+.info-photo{
+    margin: 0%;
+    font-size: 12px;
+}
+
+/*aricolo*/
+.testo-articolo{
+    font-size: 18px;
+
+}
+
+.evidenziato{
+    background-color: yellow;
+}
