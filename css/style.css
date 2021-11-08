@@ -69,10 +69,51 @@
 }
 
 /*tabella*/
+.colonna{
+    text-align: left;
+    width: 25%;
+    color: white;
+}
+.colonna-terza{
+    text-align: left;
+    width: 50%;
+    color: white;
+}
+
+thead{
+    background-color: rgb(122, 184, 235);
+}
+
+tbody{
+    background-color: rgb(138, 219, 251);
+}
+
+.colonnadi-mezzo{
+    background-color: white;
+}
 
 
 /*articoli correlati*/
 .titolo-footer{
     font-size: 15px;
     color: rgb(163, 163, 163);
+}
+
+.articolo-correlato.primo{
+    height: 180px;
+    width: 250px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.nome-articolo{
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.articolo-correlato.secondo{
+    height: 180px;
+    width: 250px;
+    background-image: url(../img/graph.jpg);
+
 }
