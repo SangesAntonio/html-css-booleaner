@@ -1,6 +1,6 @@
 /*general*/
 .container{
-    width: 50%;
+    width: 55%;
     margin: 0 auto;
 }
 
@@ -24,4 +24,25 @@
     margin-top: 40px;
 }
 
+/*titolo*/
+.titolo-articolo{
+    font-size: 35px;
+    margin-bottom: 0;
+}
 
+.note-titolo{
+    color: rgb(163, 163, 163);
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.autore{
+    color: royalblue;
+}
+
+.data{
+    color: rgb(163, 163, 163);
+    font-size: 12;
+    margin-top: 0%;
+}
