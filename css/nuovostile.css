@@ -1,0 +1,122 @@
+/*general*/
+.container{
+    width: 55%;
+    margin: 0 auto;
+}
+
+/*logo e sfondo*/
+.background-logo{
+    
+    width: auto;
+    height: 80px;
+    background-color: royalblue;
+    background-image: url(../img/pattern.png);
+    background-size:30%;
+    background-position:lef top;
+    background-repeat: repeat;
+}
+
+.logo-space{
+    height: 80px;
+    
+}
+
+.logo{
+    height: 55%;
+    width: 53%;
+    margin-top: 40px;
+}
+
+/*titolo*/
+.titolo-articolo{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+.note-titolo{
+    color: rgb(163, 163, 163);
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.autore{
+    color: royalblue;
+}
+
+.data{
+    color: rgb(163, 163, 163);
+    font-size: 12;
+    margin-top: 0%;
+}
+
+/*info immagini*/
+.info-photo{
+    margin: 0%;
+    font-size: 12px;
+}
+
+/*aricolo*/
+.testo-articolo{
+    font-size: 18px;
+
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+/*lista non numerata nell'articolo*/
+.lista-articolo{
+    padding-left: 10px;
+}
+
+/*tabella*/
+.colonna{
+    text-align: left;
+    width: 25%;
+    color: white;
+}
+.colonna-terza{
+    text-align: left;
+    width: 50%;
+    color: white;
+}
+
+thead{
+    background-color: rgb(122, 184, 235);
+}
+
+tbody{
+    background-color: rgb(138, 219, 251);
+}
+
+.colonnadi-mezzo{
+    background-color: white;
+}
+
+
+/*articoli correlati*/
+.titolo-footer{
+    font-size: 15px;
+    color: rgb(163, 163, 163);
+}
+
+.articolo-correlato.primo{
+    height: 180px;
+    width: 250px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.nome-articolo{
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.articolo-correlato.secondo{
+    height: 180px;
+    width: 250px;
+    background-image: url(../img/graph.jpg);
+
+}
