@@ -1,0 +1,27 @@
+/*general*/
+.container{
+    width: 50%;
+    margin: 0 auto;
+}
+
+/*logo e sfondo*/
+.background-logo{
+    width: auto;
+    height: 80px;
+    background-color: royalblue;
+    background-image: url(../img/pattern.png);
+    background-size:30%;
+    background-position:lef top;
+    background-repeat: repeat;
+}
+
+.logo-space{
+    height: 80px;
+}
+
+.logo{
+    height: 45%;
+    margin-top: 40px;
+}
+
+
